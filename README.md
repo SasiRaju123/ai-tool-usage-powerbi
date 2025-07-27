@@ -18,7 +18,7 @@ This project is an interactive **Power BI dashboard** based on a dataset from **
 
 ---
 
-## 📁 Dataset Details
+## Dataset Details
 
 Columns included in the dataset:
 - `AI_Tools_Used`
@@ -51,6 +51,9 @@ Columns included in the dataset:
   - Tooltip visual shows additional context like average usage & trust
   - Drillthrough filters enabled per student record
 
+ Download Report (.pbix): https://github.com/SasiRaju123/ai-tool-usage-powerbi/blob/64043c1135067e2c7b94b17af017281f1ab68f80/AI%20Tool%20Usage%20Analysis.pbix
+
+ 
 ---
 
 ## 📽 Demo Video
