@@ -59,7 +59,7 @@ Columns included in the dataset:
 ## 📽 Demo Video
 
 ▶️ Click to watch the interactive dashboard in action:  
-**[LinkedIn Video Link or YouTube if uploaded]**
+LinkedIn Video Link: https://www.linkedin.com/posts/chakravarthulasasiraju_powerbi-datavisualization-dashboarddesign-activity-7355430580307550208-cz7P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEGnbisB-d20ISN4xgMnK1V1LovxYVudtX8
 
 
 
